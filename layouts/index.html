@@ -1,9 +1,9 @@
 {{ define "main" }}
-<main class="main">
 
-    <h1>{{ i18n "office" }}</h1>
-
-    <div class="about">
+<div class="content">
+    <div class="about container">
+        <div id="about"></div>
+        <h1>{{ i18n "office" }}</h1>
         <h2 class="about__header">{{ i18n "about_us" }}</h2>
         <div class="about__text">
             {{ if eq .Lang "en" }}
@@ -18,46 +18,47 @@
         </div>
     </div>
 
-    <div class="services">
+    <div class="services container">
+        <div id="services"></div>
         <div class="services__list">
-            <div class="services_list-item active">
+            <div data-click="commercial_law" class="services__list-item active">
                 <img src="/images/services/commercial.png" alt="">
                 <p>{{ i18n "commercial_law" }}</p>
             </div>
-            <div class="services_list-item">
+            <div data-click="labour" class="services__list-item">
                 <img src="/images/services/labourlaw.png" alt="">
                 <p>{{ i18n "labour" }}</p>
             </div>
-            <div class="services_list-item">
+            <div data-click="consumer" class="services__list-item">
                 <img src="/images/services/consumer.png" alt="">
                 <p>{{ i18n "consumer" }}</p>
             </div>
-            <div class="services_list-item">
+            <div data-click="translation" class="services__list-item">
                 <img src="/images/services/translation.png" alt="">
                 <p>{{ i18n "translation" }}</p>
             </div>
-            <div class="services_list-item">
+            <div data-click="detective" class="services__list-item">
                 <img src="/images/services/detective.png" alt="">
                 <p>{{ i18n "detective" }}</p>
             </div>
-            <div class="services_list-item">
+            <div data-click="realestate" class="services__list-item">
                 <img src="/images/services/realestate.png" alt="">
                 <p>{{ i18n "realestate" }}</p>
             </div>
-            <div class="services_list-item">
+            <div data-click="contracts" class="services__list-item">
                 <img src="/images/services/contracts.png" alt="">
                 <p>{{ i18n "contracts" }}</p>
             </div>
-            <div class="services_list-item">
+            <div data-click="insolvency" class="services__list-item">
                 <img src="/images/services/insolvency.png" alt="">
                 <p>{{ i18n "insolvency" }}</p>
             </div>
-            <div class="services_list-item">
+            <div data-click="labour_protection" class="services__list-item">
                 <img src="/images/services/labourprotect.png" alt="">
                 <p>{{ i18n "labour_protection" }}</p>
             </div>
         </div>
-        <div class="services__data active">
+        <div class="services__data active" data-show="commercial_law">
             <h3>{{ i18n "commercial_law" }}</h3>
             <div class="services__text">
                 <div>
@@ -84,7 +85,7 @@
                 </div>
             </div>
         </div>
-        <div class="services__data active">
+        <div class="services__data" data-show="labour">
             <h3>{{ i18n "labour" }}</h3>
             <div class="services__text">
                 <div>
@@ -111,7 +112,7 @@
                 </div>
             </div>
         </div>
-        <div class="services__data active">
+        <div class="services__data" data-show="consumer">
             <h3>{{ i18n "consumer" }}</h3>
             <div class="services__text">
                 <div>
@@ -127,7 +128,7 @@
                 </div>
             </div>
         </div>
-        <div class="services__data active">
+        <div class="services__data" data-show="translation">
             <h3>{{ i18n "translation" }}</h3>
             <div class="services__text">
                 <div>
@@ -143,7 +144,7 @@
                 </div>
             </div>
         </div>
-        <div class="services__data active">
+        <div class="services__data" data-show="detective">
             <h3>{{ i18n "detective" }}</h3>
             <div class="services__text">
                 <div>
@@ -159,7 +160,7 @@
                 </div>
             </div>
         </div>
-        <div class="services__data active">
+        <div class="services__data" data-show="realestate">
             <h3>{{ i18n "realestate" }}</h3>
             <div class="services__text">
                 <div>
@@ -175,7 +176,7 @@
                 </div>
             </div>
         </div>
-        <div class="services__data active">
+        <div class="services__data" data-show="contracts">
             <h3>{{ i18n "contracts" }}</h3>
             <div class="services__text">
                 <div>
@@ -191,7 +192,7 @@
                 </div>
             </div>
         </div>
-        <div class="services__data active">
+        <div class="services__data" data-show="insolvency">
             <h3>{{ i18n "insolvency" }}</h3>
             <div class="services__text">
                 <div>
@@ -207,7 +208,7 @@
                 </div>
             </div>
         </div>
-        <div class="services__data active">
+        <div class="services__data" data-show="labour_protection">
             <h3>{{ i18n "labour_protection" }}</h3>
             <div class="services__text">
                 <div>
@@ -236,55 +237,57 @@
         </div>
     </div>
 
-    <div class="pricing">
+    <div class="pricing container">
         <h2>{{ i18n "price_list" }}</h2>
-        <div class="pricing__heading">
-            <h3>{{ i18n "legal_services_p" }}</h3>
-            <div class="pricing__wrapper">
-                <div class="pricing__data">
-                    {{ if eq .Lang "en" }}
-                    {{ readFile "pricing/legal/en.md" | markdownify }}
-                    {{ end }}
-                    {{ if eq .Lang "lv" }}
-                    {{ readFile "pricing/legal/lv.md" | markdownify }}
-                    {{ end }}
-                    {{ if eq .Lang "ru" }}
-                    {{ readFile "pricing/legal/ru.md" | markdownify }}
-                    {{ end }}
+        <div class="pricing__inner">
+            <div class="pricing__left">
+                <h3>{{ i18n "legal_services_p" }}</h3>
+                <div class="pricing__wrapper">
+                    <div class="pricing__data">
+                        {{ if eq .Lang "en" }}
+                        {{ readFile "pricing/legal/en.md" | markdownify }}
+                        {{ end }}
+                        {{ if eq .Lang "lv" }}
+                        {{ readFile "pricing/legal/lv.md" | markdownify }}
+                        {{ end }}
+                        {{ if eq .Lang "ru" }}
+                        {{ readFile "pricing/legal/ru.md" | markdownify }}
+                        {{ end }}
+                    </div>
                 </div>
             </div>
-        </div>
-        <div class="pricing__right">
-            <div class="pricing__heading">
-                <h3>{{ i18n "subscription_p" }}</h3>
-                <div class="pricing__data">
-                    {{ if eq .Lang "en" }}
-                    {{ readFile "pricing/subscription/en.md" | markdownify }}
-                    {{ end }}
-                    {{ if eq .Lang "lv" }}
-                    {{ readFile "pricing/subscription/lv.md" | markdownify }}
-                    {{ end }}
-                    {{ if eq .Lang "ru" }}
-                    {{ readFile "pricing/subscription/ru.md" | markdownify }}
-                    {{ end }}
+            <div class="pricing__right">
+                <div class="pricing__heading">
+                    <h3>{{ i18n "subscription_p" }}</h3>
+                    <div class="pricing__data">
+                        {{ if eq .Lang "en" }}
+                        {{ readFile "pricing/subscription/en.md" | markdownify }}
+                        {{ end }}
+                        {{ if eq .Lang "lv" }}
+                        {{ readFile "pricing/subscription/lv.md" | markdownify }}
+                        {{ end }}
+                        {{ if eq .Lang "ru" }}
+                        {{ readFile "pricing/subscription/ru.md" | markdownify }}
+                        {{ end }}
+                    </div>
                 </div>
-            </div>
-            <div class="pricing__heading">
-                <h3>{{ i18n "translation_p" }}</h3>
-                <div class="pricing__data">
-                    {{ if eq .Lang "en" }}
-                    {{ readFile "pricing/translation/en.md" | markdownify }}
-                    {{ end }}
-                    {{ if eq .Lang "lv" }}
-                    {{ readFile "pricing/translation/lv.md" | markdownify }}
-                    {{ end }}
-                    {{ if eq .Lang "ru" }}
-                    {{ readFile "pricing/translation/ru.md" | markdownify }}
-                    {{ end }}
+                <div class="pricing__heading">
+                    <h3>{{ i18n "translation_p" }}</h3>
+                    <div class="pricing__data">
+                        {{ if eq .Lang "en" }}
+                        {{ readFile "pricing/translation/en.md" | markdownify }}
+                        {{ end }}
+                        {{ if eq .Lang "lv" }}
+                        {{ readFile "pricing/translation/lv.md" | markdownify }}
+                        {{ end }}
+                        {{ if eq .Lang "ru" }}
+                        {{ readFile "pricing/translation/ru.md" | markdownify }}
+                        {{ end }}
+                    </div>
                 </div>
             </div>
         </div>
     </div>
+</div>
 
-</main>
 {{ end }}

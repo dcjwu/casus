@@ -1,4 +1,31 @@
 <div class="header">
+    <div class="header__wrapper">
+        <div class="header__inner container">
+            <nav class="nav">
+                {{ range .Site.Menus.main }}
+                <a href="{{ .URL }}" class="nav-link">
+                    {{ $text := print .Name | safeHTML }}
+                    {{ $text }}
+                </a>
+                {{ end }}
+            </nav>
+            <ul class="lang">
+                {{ range $.Site.Home.AllTranslations }}
+                <li>
+                    <a class="{{if eq .Lang $.Lang}}active{{end}}" href="{{ .Permalink }}">{{ .Language.LanguageName
+                        }}</a>
+                </li>
+                {{ end }}
+            </ul>
+            <button id="burger_btn">
+                <span></span>
+                <span></span>
+            </button>
+        </div>
+    </div>
+</div>
+
+<div class="burger-menu" id="menu">
     <nav class="nav">
         {{ range .Site.Menus.main }}
         <a href="{{ .URL }}" class="nav-link">
@@ -6,12 +33,13 @@
             {{ $text }}
         </a>
         {{ end }}
-</nav>
+    </nav>
     <ul class="lang">
-    {{ range $.Site.Home.AllTranslations }}
+        {{ range $.Site.Home.AllTranslations }}
         <li>
-            <a href="{{ .Permalink }}">{{ .Language.LanguageName }}</a>
+            <a class="{{if eq .Lang $.Lang}}active{{end}}" href="{{ .Permalink }}">{{ .Language.LanguageName
+                }}</a>
         </li>
-    {{ end }}
+        {{ end }}
     </ul>
 </div>
