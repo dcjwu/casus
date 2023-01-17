@@ -1,0 +1,16 @@
+All required documents preparation and submission to Commercial Register of different business forms registration.
+- Individual merchant
+- Limited liability company (SIA)
+- Limited liability company with capital less than 2800 € (SIA)
+- Corporation (AS)
+- General partnership
+- Limited partnership
+- Latvian merchant branch
+- Foreign merchant branch
+- Cooperative society
+- Society
+- Foundation
+- Individual company
+- The mass media
+- Foreign merchants and their representations
+- Religious organizations.

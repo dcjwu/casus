@@ -1,0 +1,44 @@
+- id: office
+  translation: "CASUS Юридическое Бюро"
+
+- id: about_us
+  translation: "О нас"
+
+- id: commercial_law
+  translation: "Коммерческое право"
+- id: labour
+  translation: "Трудовое право"
+- id: consumer
+  translation: "Потребительское право"
+- id: translation
+  translation: "Переводы"
+- id: detective
+  translation: "Детективные услуги"
+- id: realestate
+  translation: "Сделки с недвижимостью"
+- id: contracts
+  translation: "Договоры"
+- id: insolvency
+  translation: "Неплатежеспособность"
+- id: labour_protection
+  translation: "Защита труда"
+
+- id: price_list
+  translation: "Цены услуг"
+- id: legal_services_p
+  translation: Юридические услуги
+- id: subscription_p
+  translation: Абонементы
+- id: translation_p
+  translation: Перевод документов
+
+- id: contact_us
+  translation: "Свяжитесь с нами, и мы обязательно Вам поможем!"
+- id: contact_us_email_placeholder
+  translation: "E-mail"
+- id: contact_us_name_placeholder
+  translation: "Имя"
+- id: contact_us_message_placeholder
+  translation: "Текст письма"
+- id: contact_us_button
+  translation: "Отправить"

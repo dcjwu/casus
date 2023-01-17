@@ -1,0 +1,44 @@
+- id: office
+  translation: "CASUS Juridiskais Birojs"
+
+- id: about_us
+  translation: "Par mums"
+
+- id: commercial_law
+  translation: "Komerctiesības"
+- id: labour
+  translation: "Darba tiesības"
+- id: consumer
+  translation: "Patērētāju tiesības"
+- id: translation
+  translation: "Tulkojumi"
+- id: detective
+  translation: "Detektīva pakalpojimu"
+- id: realestate
+  translation: "Darījumi ar nekustamo īpašumu"
+- id: contracts
+  translation: "Līgumi"
+- id: insolvency
+  translation: "Maksātnespēja"
+- id: labour_protection
+  translation: "Darba aizsardzība"
+
+- id: price_list
+  translation: "Cenrādis"
+- id: legal_services_p
+  translation: Juridiskie pakalpojumi
+- id: subscription_p
+  translation: Abonementi
+- id: translation_p
+  translation: Dokumentu tulkojimu
+
+- id: contact_us
+  translation: "Sazinities ar mums un mēs obligāti Jums palīdzēsim!"
+- id: contact_us_email_placeholder
+  translation: "E-pasts"
+- id: contact_us_name_placeholder
+  translation: "Vārds"
+- id: contact_us_message_placeholder
+  translation: "Vēstules teksts"
+- id: contact_us_button
+  translation: "Sūtīt"

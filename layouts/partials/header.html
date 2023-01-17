@@ -1,0 +1,17 @@
+<div class="header">
+    <nav class="nav">
+        {{ range .Site.Menus.main }}
+        <a href="{{ .URL }}" class="nav-link">
+            {{ $text := print .Name | safeHTML }}
+            {{ $text }}
+        </a>
+        {{ end }}
+</nav>
+    <ul class="lang">
+    {{ range $.Site.Home.AllTranslations }}
+        <li>
+            <a href="{{ .Permalink }}">{{ .Language.LanguageName }}</a>
+        </li>
+    {{ end }}
+    </ul>
+</div>

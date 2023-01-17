@@ -1,0 +1,44 @@
+- id: office
+  translation: "AB Law Office"
+
+- id: about_us
+  translation: "About us"
+
+- id: commercial_law
+  translation: "Commercial Law"
+- id: labour
+  translation: "Labour Law"
+- id: consumer
+  translation: "Consumer Rights"
+- id: translation
+  translation: "Translation"
+- id: detective
+  translation: "Detective Services"
+- id: realestate
+  translation: "Real Estate Transactions"
+- id: contracts
+  translation: "Contracts"
+- id: insolvency
+  translation: "Insolvency"
+- id: labour_protection
+  translation: "Labour Protection"
+
+- id: price_list
+  translation: "Price list"
+- id: legal_services_p
+  translation: Legal services
+- id: subscription_p
+  translation: A Subscription
+- id: translation_p
+  translation: Translation
+
+- id: contact_us
+  translation: "Contact us and we'll definitely find the way!"
+- id: contact_us_email_placeholder
+  translation: "E-mail"
+- id: contact_us_name_placeholder
+  translation: "Name"
+- id: contact_us_message_placeholder
+  translation: "Message text"
+- id: contact_us_button
+  translation: "Send"

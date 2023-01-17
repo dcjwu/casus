@@ -1,0 +1,70 @@
+baseURL = "http://example.org/"
+defaultContentLanguage = "en"
+
+[markup.goldmark.renderer]
+unsafe= true
+
+[languages]
+  [languages.en]
+    languageName = "ENG"
+    title = "Casus | EN"
+    weight = 1
+  [languages.ru]
+    languageName = "RUS"
+    title = "Casus | RU"
+    weight = 2
+  [languages.lv]
+    languageName = "LV"
+    title = "Casus | LV"
+    weight = 3
+
+  [[languages.en.menu.main]]
+    name = "About Us"
+    url = "#about"
+    weight = 1
+  [[languages.en.menu.main]]
+    name = "Services"
+    url = "#services"
+    weight = 2
+  [[languages.en.menu.main]]
+    name = "Prices"
+    url = "#prices"
+    weight = 3
+  [[languages.en.menu.main]]
+    name = "Contact Us"
+    url = "#contact"
+    weight = 4
+
+  [[languages.ru.menu.main]]
+    name = "О Нас"
+    url = "#about"
+    weight = 1
+  [[languages.ru.menu.main]]
+    name = "Услуги"
+    url = "#services"
+    weight = 2
+  [[languages.ru.menu.main]]
+    name = "Цены"
+    url = "#prices"
+    weight = 3
+  [[languages.ru.menu.main]]
+    name = "Контакты"
+    url = "#contact"
+    weight = 4
+
+  [[languages.lv.menu.main]]
+    name = "Par Mums"
+    url = "#about"
+    weight = 1
+  [[languages.lv.menu.main]]
+    name = "Pakalpojumi"
+    url = "#services"
+    weight = 2
+  [[languages.lv.menu.main]]
+    name = "Cenrādis"
+    url = "#prices"
+    weight = 3
+  [[languages.lv.menu.main]]
+    name = "Kontakti"
+    url = "#contact"
+    weight = 4

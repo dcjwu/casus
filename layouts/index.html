@@ -1,0 +1,290 @@
+{{ define "main" }}
+<main class="main">
+
+    <h1>{{ i18n "office" }}</h1>
+
+    <div class="about">
+        <h2 class="about__header">{{ i18n "about_us" }}</h2>
+        <div class="about__text">
+            {{ if eq .Lang "en" }}
+            {{ readFile "about/en.md" | markdownify }}
+            {{ end }}
+            {{ if eq .Lang "lv" }}
+            {{ readFile "about/lv.md" | markdownify }}
+            {{ end }}
+            {{ if eq .Lang "ru" }}
+            {{ readFile "about/ru.md" | markdownify }}
+            {{ end }}
+        </div>
+    </div>
+
+    <div class="services">
+        <div class="services__list">
+            <div class="services_list-item active">
+                <img src="/images/services/commercial.png" alt="">
+                <p>{{ i18n "commercial_law" }}</p>
+            </div>
+            <div class="services_list-item">
+                <img src="/images/services/labourlaw.png" alt="">
+                <p>{{ i18n "labour" }}</p>
+            </div>
+            <div class="services_list-item">
+                <img src="/images/services/consumer.png" alt="">
+                <p>{{ i18n "consumer" }}</p>
+            </div>
+            <div class="services_list-item">
+                <img src="/images/services/translation.png" alt="">
+                <p>{{ i18n "translation" }}</p>
+            </div>
+            <div class="services_list-item">
+                <img src="/images/services/detective.png" alt="">
+                <p>{{ i18n "detective" }}</p>
+            </div>
+            <div class="services_list-item">
+                <img src="/images/services/realestate.png" alt="">
+                <p>{{ i18n "realestate" }}</p>
+            </div>
+            <div class="services_list-item">
+                <img src="/images/services/contracts.png" alt="">
+                <p>{{ i18n "contracts" }}</p>
+            </div>
+            <div class="services_list-item">
+                <img src="/images/services/insolvency.png" alt="">
+                <p>{{ i18n "insolvency" }}</p>
+            </div>
+            <div class="services_list-item">
+                <img src="/images/services/labourprotect.png" alt="">
+                <p>{{ i18n "labour_protection" }}</p>
+            </div>
+        </div>
+        <div class="services__data active">
+            <h3>{{ i18n "commercial_law" }}</h3>
+            <div class="services__text">
+                <div>
+                    {{ if eq .Lang "en" }}
+                    {{ readFile "services/commercial/left.en.md" | markdownify }}
+                    {{ end }}
+                    {{ if eq .Lang "lv" }}
+                    {{ readFile "services/commercial/left.lv.md" | markdownify }}
+                    {{ end }}
+                    {{ if eq .Lang "ru" }}
+                    {{ readFile "services/commercial/left.ru.md" | markdownify }}
+                    {{ end }}
+                </div>
+                <div>
+                    {{ if eq .Lang "en" }}
+                    {{ readFile "services/commercial/right.en.md" | markdownify }}
+                    {{ end }}
+                    {{ if eq .Lang "lv" }}
+                    {{ readFile "services/commercial/right.lv.md" | markdownify }}
+                    {{ end }}
+                    {{ if eq .Lang "ru" }}
+                    {{ readFile "services/commercial/right.ru.md" | markdownify }}
+                    {{ end }}
+                </div>
+            </div>
+        </div>
+        <div class="services__data active">
+            <h3>{{ i18n "labour" }}</h3>
+            <div class="services__text">
+                <div>
+                    {{ if eq .Lang "en" }}
+                    {{ readFile "services/labour/left.en.md" | markdownify }}
+                    {{ end }}
+                    {{ if eq .Lang "lv" }}
+                    {{ readFile "services/labour/left.lv.md" | markdownify }}
+                    {{ end }}
+                    {{ if eq .Lang "ru" }}
+                    {{ readFile "services/labour/left.ru.md" | markdownify }}
+                    {{ end }}
+                </div>
+                <div>
+                    {{ if eq .Lang "en" }}
+                    {{ readFile "services/labour/right.en.md" | markdownify }}
+                    {{ end }}
+                    {{ if eq .Lang "lv" }}
+                    {{ readFile "services/labour/right.lv.md" | markdownify }}
+                    {{ end }}
+                    {{ if eq .Lang "ru" }}
+                    {{ readFile "services/labour/right.ru.md" | markdownify }}
+                    {{ end }}
+                </div>
+            </div>
+        </div>
+        <div class="services__data active">
+            <h3>{{ i18n "consumer" }}</h3>
+            <div class="services__text">
+                <div>
+                    {{ if eq .Lang "en" }}
+                    {{ readFile "services/consumer/en.md" | markdownify }}
+                    {{ end }}
+                    {{ if eq .Lang "lv" }}
+                    {{ readFile "services/consumer/lv.md" | markdownify }}
+                    {{ end }}
+                    {{ if eq .Lang "ru" }}
+                    {{ readFile "services/consumer/ru.md" | markdownify }}
+                    {{ end }}
+                </div>
+            </div>
+        </div>
+        <div class="services__data active">
+            <h3>{{ i18n "translation" }}</h3>
+            <div class="services__text">
+                <div>
+                    {{ if eq .Lang "en" }}
+                    {{ readFile "services/translation/en.md" | markdownify }}
+                    {{ end }}
+                    {{ if eq .Lang "lv" }}
+                    {{ readFile "services/translation/lv.md" | markdownify }}
+                    {{ end }}
+                    {{ if eq .Lang "ru" }}
+                    {{ readFile "services/translation/ru.md" | markdownify }}
+                    {{ end }}
+                </div>
+            </div>
+        </div>
+        <div class="services__data active">
+            <h3>{{ i18n "detective" }}</h3>
+            <div class="services__text">
+                <div>
+                    {{ if eq .Lang "en" }}
+                    {{ readFile "services/detective/en.md" | markdownify }}
+                    {{ end }}
+                    {{ if eq .Lang "lv" }}
+                    {{ readFile "services/detective/lv.md" | markdownify }}
+                    {{ end }}
+                    {{ if eq .Lang "ru" }}
+                    {{ readFile "services/detective/ru.md" | markdownify }}
+                    {{ end }}
+                </div>
+            </div>
+        </div>
+        <div class="services__data active">
+            <h3>{{ i18n "realestate" }}</h3>
+            <div class="services__text">
+                <div>
+                    {{ if eq .Lang "en" }}
+                    {{ readFile "services/realestate/en.md" | markdownify }}
+                    {{ end }}
+                    {{ if eq .Lang "lv" }}
+                    {{ readFile "services/realestate/lv.md" | markdownify }}
+                    {{ end }}
+                    {{ if eq .Lang "ru" }}
+                    {{ readFile "services/realestate/ru.md" | markdownify }}
+                    {{ end }}
+                </div>
+            </div>
+        </div>
+        <div class="services__data active">
+            <h3>{{ i18n "contracts" }}</h3>
+            <div class="services__text">
+                <div>
+                    {{ if eq .Lang "en" }}
+                    {{ readFile "services/contracts/en.md" | markdownify }}
+                    {{ end }}
+                    {{ if eq .Lang "lv" }}
+                    {{ readFile "services/contracts/lv.md" | markdownify }}
+                    {{ end }}
+                    {{ if eq .Lang "ru" }}
+                    {{ readFile "services/contracts/ru.md" | markdownify }}
+                    {{ end }}
+                </div>
+            </div>
+        </div>
+        <div class="services__data active">
+            <h3>{{ i18n "insolvency" }}</h3>
+            <div class="services__text">
+                <div>
+                    {{ if eq .Lang "en" }}
+                    {{ readFile "services/insolvency/en.md" | markdownify }}
+                    {{ end }}
+                    {{ if eq .Lang "lv" }}
+                    {{ readFile "services/insolvency/lv.md" | markdownify }}
+                    {{ end }}
+                    {{ if eq .Lang "ru" }}
+                    {{ readFile "services/insolvency/ru.md" | markdownify }}
+                    {{ end }}
+                </div>
+            </div>
+        </div>
+        <div class="services__data active">
+            <h3>{{ i18n "labour_protection" }}</h3>
+            <div class="services__text">
+                <div>
+                    {{ if eq .Lang "en" }}
+                    {{ readFile "services/labour_protection/left.en.md" | markdownify }}
+                    {{ end }}
+                    {{ if eq .Lang "lv" }}
+                    {{ readFile "services/labour_protection/left.lv.md" | markdownify }}
+                    {{ end }}
+                    {{ if eq .Lang "ru" }}
+                    {{ readFile "services/labour_protection/left.ru.md" | markdownify }}
+                    {{ end }}
+                </div>
+                <div>
+                    {{ if eq .Lang "en" }}
+                    {{ readFile "services/labour_protection/right.en.md" | markdownify }}
+                    {{ end }}
+                    {{ if eq .Lang "lv" }}
+                    {{ readFile "services/labour_protection/right.lv.md" | markdownify }}
+                    {{ end }}
+                    {{ if eq .Lang "ru" }}
+                    {{ readFile "services/labour_protection/right.ru.md" | markdownify }}
+                    {{ end }}
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <div class="pricing">
+        <h2>{{ i18n "price_list" }}</h2>
+        <div class="pricing__heading">
+            <h3>{{ i18n "legal_services_p" }}</h3>
+            <div class="pricing__wrapper">
+                <div class="pricing__data">
+                    {{ if eq .Lang "en" }}
+                    {{ readFile "pricing/legal/en.md" | markdownify }}
+                    {{ end }}
+                    {{ if eq .Lang "lv" }}
+                    {{ readFile "pricing/legal/lv.md" | markdownify }}
+                    {{ end }}
+                    {{ if eq .Lang "ru" }}
+                    {{ readFile "pricing/legal/ru.md" | markdownify }}
+                    {{ end }}
+                </div>
+            </div>
+        </div>
+        <div class="pricing__right">
+            <div class="pricing__heading">
+                <h3>{{ i18n "subscription_p" }}</h3>
+                <div class="pricing__data">
+                    {{ if eq .Lang "en" }}
+                    {{ readFile "pricing/subscription/en.md" | markdownify }}
+                    {{ end }}
+                    {{ if eq .Lang "lv" }}
+                    {{ readFile "pricing/subscription/lv.md" | markdownify }}
+                    {{ end }}
+                    {{ if eq .Lang "ru" }}
+                    {{ readFile "pricing/subscription/ru.md" | markdownify }}
+                    {{ end }}
+                </div>
+            </div>
+            <div class="pricing__heading">
+                <h3>{{ i18n "translation_p" }}</h3>
+                <div class="pricing__data">
+                    {{ if eq .Lang "en" }}
+                    {{ readFile "pricing/translation/en.md" | markdownify }}
+                    {{ end }}
+                    {{ if eq .Lang "lv" }}
+                    {{ readFile "pricing/translation/lv.md" | markdownify }}
+                    {{ end }}
+                    {{ if eq .Lang "ru" }}
+                    {{ readFile "pricing/translation/ru.md" | markdownify }}
+                    {{ end }}
+                </div>
+            </div>
+        </div>
+    </div>
+
+</main>
+{{ end }}
