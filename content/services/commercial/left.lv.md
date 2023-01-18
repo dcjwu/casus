@@ -1,31 +1,31 @@
 Visu nepieciešamo dokumentu sagatavošana un iesniegšana Uzņēmumu reģistrā dažādu uzņēmējdarbības formu uzņēmumu reģistrācijai:
 
-• individuālais komersants,
+• individuālais komersants;
 
-• sabiedrība ar ierobežotu atbildību,
+• sabiedrība ar ierobežotu atbildību;
 
-• mazkapitāla vai mikrouzņēmuma sabiedrība ar ierobežotu atbildību,
+• mazkapitāla vai mikrouzņēmuma sabiedrība ar ierobežotu atbildību;
 
-• akciju sabiedrība,
+• akciju sabiedrība;
 
-• pilnsabiedrība,
+• pilnsabiedrība;
 
-• komandītsabiedrība,
+• komandītsabiedrība;
 
-• Latvijas komersanta filiāle,
+• Latvijas komersanta filiāle;
 
-• ārvalsts komersanta filiāle,
+• ārvalsts komersanta filiāle;
 
-• kooperatīvā sabiedrība,
+• kooperatīvā sabiedrība;
 
-• biedrība,
+• biedrība;
 
-• nodibinājums,
+• nodibinājums;
 
-• individuālais uzņēmums,
+• individuālais uzņēmums;
 
-• masu informācijas līdzekļi,
+• masu informācijas līdzekļi;
 
-• ārvalstu komersantu un organizāciju pārstāvniecības,
+• ārvalstu komersantu un organizāciju pārstāvniecības;
 
 • reliģiskās organizācijas.
