@@ -1,4 +1,4 @@
-baseURL = "https://cazus.lv/"
+baseURL = "https://www.cazus.lv/"
 defaultContentLanguage = "en"
 
 [markup.goldmark.renderer]
