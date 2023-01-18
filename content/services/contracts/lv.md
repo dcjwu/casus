@@ -1,43 +1,43 @@
 Visa veida līgumu sastādīšana, analīze, grozīšana, tajā skaitā:
 
-• pirkuma līgumi,
+• pirkuma līgumi;
 
-• dāvinājuma līgumi,
+• dāvinājuma līgumi;
 
-• darba līgumi,
+• darba līgumi;
 
-• uzņēmuma līgumi,
+• uzņēmuma līgumi;
 
-• glabāšanas līgumi,
+• glabāšanas līgumi;
 
-• aizdevuma līgumi,
+• aizdevuma līgumi;
 
-• laulības līgumi,
+• laulības līgumi;
 
-• līgumi par sadarbību,
+• līgumi par sadarbību;
 
-• nomas līgumi,
+• nomas līgumi;
 
-• īres līgumi,
+• īres līgumi;
 
-• celtniecības līgumi,
+• celtniecības līgumi;
 
-• piegādes līgumi,
+• piegādes līgumi;
 
-• pilnvarojuma līgumi,
+• pilnvarojuma līgumi;
 
-• cesijas līgumi,
+• cesijas līgumi;
 
-• ķīlas līgumu,
+• ķīlas līgumu;
 
-• pārvadājuma līgumi,
+• pārvadājuma līgumi;
 
-• komisijas līgumi,
+• komisijas līgumi;
 
-• rokas naudas līgumi,
+• rokas naudas līgumi;
 
-• patapinājuma līgumi,
+• patapinājuma līgumi;
 
-• uztura līgumi,
+• uztura līgumi;
 
-• maiņas līgumi,
+• maiņas līgumi;
