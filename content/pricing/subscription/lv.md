@@ -1,10 +1,10 @@
-• Abonements 1 — iekļautas konsultācijas un 2 darba stundas mēnesī* <span>20€</span>
+• Abonements 1 — iekļautas konsultācijas un 2 darba stundas mēnesī* <span>80€</span>
 
-• Abonements 2 — iekļautas konsultācijas un 4 darba stundas mēnesī* <span>40€</span>
+• Abonements 2 — iekļautas konsultācijas un 4 darba stundas mēnesī* <span>160€</span>
 
-• Abonements 3 — iekļautas konsultācijas un 6 darba stundas mēnesī* <span>60€</span>
+• Abonements 3 — iekļautas konsultācijas un 6 darba stundas mēnesī* <span>240€</span>
 
-• Abonements 4 — iekļautas konsultācijas un 8 darba stundas mēnesī** <span>100€</span>
+• Abonements 4 — iekļautas konsultācijas un 8 darba stundas mēnesī** <span>300€</span>
 
 <br/>
 
