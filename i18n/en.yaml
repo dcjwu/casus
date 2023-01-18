@@ -8,23 +8,23 @@
   translation: "About us"
 
 - id: commercial_law
-  translation: "Commercial Law"
+  translation: "Commercial law"
 - id: labour
-  translation: "Labour Law"
+  translation: "Labour law"
 - id: consumer
-  translation: "Consumer Rights"
+  translation: "Consumer rights"
 - id: translation
-  translation: "Translation"
+  translation: "Criminal law"
 - id: detective
-  translation: "Detective Services"
+  translation: "Detective services"
 - id: realestate
-  translation: "Real Estate Transactions"
+  translation: "Real estate transactions"
 - id: contracts
   translation: "Contracts"
 - id: insolvency
   translation: "Insolvency"
 - id: labour_protection
-  translation: "Labour Protection"
+  translation: "Migration affairs"
 
 - id: price_list
   translation: "Price list"
@@ -33,7 +33,7 @@
 - id: subscription_p
   translation: A Subscription
 - id: translation_p
-  translation: Translation
+  translation: Detective services
 
 - id: contact_us
   translation: "Contact us and we'll definitely find the way!"
