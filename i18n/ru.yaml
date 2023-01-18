@@ -14,7 +14,7 @@
 - id: consumer
   translation: "Потреби-тельское право"
 - id: translation
-  translation: "Переводы"
+  translation: "Уголовное право"
 - id: detective
   translation: "Детективные услуги"
 - id: realestate
@@ -24,7 +24,7 @@
 - id: insolvency
   translation: "Неплатеже-способность"
 - id: labour_protection
-  translation: "Защита труда"
+  translation: "Миграционные права"
 
 - id: price_list
   translation: "Цены услуг"
@@ -33,7 +33,7 @@
 - id: subscription_p
   translation: Абонементы
 - id: translation_p
-  translation: Перевод документов
+  translation: Услуги детектива 
 
 - id: contact_us
   translation: "Свяжитесь с нами, и мы обязательно Вам поможем!"
