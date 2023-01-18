@@ -1,5 +1,7 @@
 Komercsabiedrības pamatdokumentu grozījumu sagatavošana un reģistrācija Uzņēmumu reģistrā:
 
+<br/>
+
 • nosaukuma maiņa;
 
 • juridiskās adreses maiņa;
