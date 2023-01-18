@@ -12,7 +12,7 @@
 
 • Klienta interešu pārstāvniecība (tiesā, valsts iestādēs) <span>50€/h</span>
 
-• Migrācijas tiesības: uzturēšanas atļauja, vizas, dokumentu sagatavošana <span>no 400€</span>
+• Uzturēšanās atļaujas, vīzas dokumentu sagatavošana un iesniegšana <span>no 400€</span>
 
 • Maksātnespējas process <span>300-500€</span>
 
