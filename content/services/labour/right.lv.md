@@ -1,5 +1,7 @@
 Palīdzība darbiniekiem:
 
+<br/>
+
 • Konsultācijas darba tiesību un darba aizsardzības jautājumos, Darba likuma normu piemērošana jautājumos (darba līguma grozījumi, uzteikums, darbinieka atlaišana no darba).
 
 <br/>
@@ -10,5 +12,6 @@ Palīdzība darbiniekiem:
 
 • Tiesas nolēmumu pārsūdzēšana.
 
+<br/>
 
 • Iesniegumu sastādīšana Valsts darba inspekcijā.
