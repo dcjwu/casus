@@ -1,4 +1,13 @@
-Consultations on consumer rights issues.
-- The preparation of a claim for a seller or service provider
-- Drawing up a complaint to the Consumer Rights Protection Centre.
-- The settlement of other issues regarding the protection of consumer rights.
+• Consultations on consumer rights issues.
+
+<br/>
+
+• The preparation of a claim for a seller or service provider
+
+<br/>
+
+• Drawing up a complaint to the Consumer Rights Protection Centre.
+
+<br/>
+
+• The settlement of other issues regarding the protection of consumer rights.

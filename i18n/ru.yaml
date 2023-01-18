@@ -9,7 +9,7 @@
 - id: labour
   translation: "Трудовое право"
 - id: consumer
-  translation: "Потребительское право"
+  translation: "Потреби-тельское право"
 - id: translation
   translation: "Переводы"
 - id: detective
@@ -19,7 +19,7 @@
 - id: contracts
   translation: "Договоры"
 - id: insolvency
-  translation: "Неплатежеспособность"
+  translation: "Неплатеже-способность"
 - id: labour_protection
   translation: "Защита труда"
 
