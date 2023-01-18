@@ -40,4 +40,4 @@ Visa veida līgumu sastādīšana, analīze, grozīšana, tajā skaitā:
 
 • uztura līgumi;
 
-• maiņas līgumi;
+• maiņas līgumi.
