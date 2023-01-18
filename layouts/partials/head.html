@@ -1,4 +1,5 @@
 <head>
+    {{ $title := .Site.Title }}
     <meta charset="UTF-8">
     <meta name="viewport"
           content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0">
@@ -10,13 +11,12 @@
     <link rel="stylesheet" href="{{ $style.Permalink }}">
     {{ $reset := resources.Get "css/reset.scss" | toCSS | minify }}
     <link rel="stylesheet" href="{{ $reset.Permalink }}">
-    <meta content="CASUS Law Office lawyers are more than premium quality professionals in the field, they are confidants, with whom you`ll be pleased with working."
+    <meta content="{{ i18n "meta_desc" }}"
           name="description"/>
-    <meta content="kucenko.dev | Developer and Mentor" property="og:title"/>
-    <meta content="CASUS Law Office lawyers are more than premium quality professionals in the field, they are confidants, with whom you`ll be pleased with working."
+    <meta content="{{ $title }}" property="og:title"/>
+    <meta content="{{ i18n "meta_desc" }}"
           property="og:description"/>
     <meta content="https://cazus.lv/images/logo.png" property="og:image"/>
     <meta content="https://cazus.lv" property="og:url"/>
-    {{ $title := .Site.Title }}
     <title>{{ $title }}</title>
 </head>
