@@ -1,3 +1,5 @@
+• Pirmā konsultācija (līdz 1h), dokumentu vispārīga apskate, dokumentu analīze, iespējamo risinājumu meklēšana <span>50€</span>
+
 • Komersantu dibināšana <span>40€</span>
 
 • Ārvalsts komersantu pārstāvniecību, filiāļu reģistrēšana <span>60€</span>
@@ -6,12 +8,12 @@
 
 • Izmaiņu komersantu reģistrācijas dokumentos sag., un reģistrācija <span>30€</span>
 
-• Līgumu analīze <span>20€</span>
+• Prasības pieteikums tiesā <span>no 50€</span>
 
-• Līgumu sagatavošana (dāvinājuma līgumi, pakalpojuma līgumi, mantojuma līgumi, nomas līgumi) <span>15€</span>
+• Klienta interešu pārstāvniecība (tiesā, valsts iestādēs) <span>50€/h</span>
 
-• Prasības pieteikums tiesā <span>50€</span>
+• Migrācijas tiesības: uzturēšanas atļauja, vizas, dokumentu sagatavošana <span>no 400€</span>
 
-• Klienta interešu pārstāvniecība (tiesā, valsts iestādēs) <span>50€</span>
+• Maksātnespējas process <span>300-500€</span>
 
-• Darba aizsardzības jautājumos atkarībā no nodarbināto skaita un uzņēmuma darbības sfēras no <span>80€</span>
+• Uzņēmuma likvidācija <span>no 200€</span>
