@@ -1,5 +1,7 @@
 Visu nepieciešamo dokumentu sagatavošana un iesniegšana Uzņēmumu reģistrā dažādu uzņēmējdarbības formu uzņēmumu reģistrācijai:
 
+<br/>
+
 • individuālais komersants;
 
 • sabiedrība ar ierobežotu atbildību;
