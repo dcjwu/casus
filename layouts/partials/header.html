@@ -12,8 +12,7 @@
             <ul class="lang">
                 {{ range $.Site.Home.AllTranslations }}
                 <li>
-                    <a class="{{if eq .Lang $.Lang}}active{{end}}" href="{{ .Permalink }}">{{ .Language.LanguageName
-                        }}</a>
+                    <a class="{{if eq .Lang $.Lang}}active{{end}}" href="{{ .Permalink }}">{{ .Language.LanguageName }}</a>
                 </li>
                 {{ end }}
             </ul>
@@ -37,8 +36,7 @@
     <ul class="lang">
         {{ range $.Site.Home.AllTranslations }}
         <li>
-            <a class="{{if eq .Lang $.Lang}}active{{end}}" href="{{ .Permalink }}">{{ .Language.LanguageName
-                }}</a>
+            <a class="{{if eq .Lang $.Lang}}active{{end}}" href="{{ .Permalink }}">{{ .Language.LanguageName }}</a>
         </li>
         {{ end }}
     </ul>

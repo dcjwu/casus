@@ -249,6 +249,7 @@ $bp-sm: 575px;
 
       &.active {
         p {
+          transition: color .2s ease-in-out;
           color: $color-highlight-1;
           font-weight: 500;
         }
@@ -324,6 +325,12 @@ $bp-sm: 575px;
   }
 
   &__data {
+    p {
+      display: grid;
+      grid-template-columns: 1.1fr .1fr;
+      gap: 1rem;
+    }
+
     span {
       color: $color-highlight-1;
     }
@@ -332,10 +339,67 @@ $bp-sm: 575px;
 
 //---------------
 
-.pricing__data {
+.footer {
+  background-image: url("/images/footer.png");
+  padding: 4.8rem 2.4rem 6.4rem 2.4rem;
+  color: white;
+
   p {
-    display: grid;
-    grid-template-columns: 1.1fr .1fr;
-    gap: 1rem;
+    width: 24ch;
+    font-size: 2.4rem;
+    text-align: center;
+    margin: 6.4rem auto 2.4rem auto;
+    color: white;
+  }
+
+  .contacts {
+    li {
+      margin-top: 1rem;
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      gap: .6rem;
+
+      a {
+        transition: color .2s ease-in-out;
+
+        &:hover {
+          color: $color-highlight-1;
+        }
+      }
+    }
+  }
+}
+
+.form {
+  .wrapper {
+    margin-top: 2.4rem !important;
+    display: flex;
+    justify-content: center;
+    gap: 1.2rem;
+
+    div {
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      justify-content: space-between;
+      gap: 1rem;
+    }
+
+    input, textarea {
+      padding: .8rem;
+      border-radius: .8rem;
+      border: none;
+      font-family: inherit;
+    }
+  }
+
+  button {
+    padding: .8rem 1.6rem;
+    border-radius: .8rem;
+    background-color: $color-highlight-1;
+    border: none;
+    margin: 1.4rem auto 0;
+    display: block;
   }
 }
