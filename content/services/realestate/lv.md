@@ -4,22 +4,22 @@ Darījumu likumības pārbaude, dokumentu analīze.
 <br/>
 Līgumu analīze un sagatavošana, tajā skaitā:
 
-• Pirkuma līgumi,
+• Pirkuma līgumi;
 
-• Dāvinājuma līgumi,
+• Dāvinājuma līgumi;
 
-• Īres līgumi,
+• Īres līgumi;
 
-• Nomas līgumi,
+• Nomas līgumi;
 
-• Rokas naudas līgumi,
+• Rokas naudas līgumi;
 
-• Patapinājuma līgumi,
+• Patapinājuma līgumi;
 
-• Uztura līgumi,
+• Uztura līgumi;
 
-• Maiņas līgumi,
+• Maiņas līgumi;
 
-• u.c
+• u.c.
 
 Palīdzība darījumu noformēšanā pie notāra.
