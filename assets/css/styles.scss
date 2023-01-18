@@ -230,14 +230,9 @@ $bp-sm: 575px;
   }
 
   &__text {
-    display: grid;
-    grid-template-columns: 1fr 1fr;
+    display: flex;
+    flex-direction: column;
     gap: 1.2rem;
-
-    @include breakpoint-max($bp-sm) {
-      display: flex;
-      flex-direction: column;
-    }
   }
 }
 
@@ -469,6 +464,7 @@ $bp-sm: 575px;
 .copyright {
   background-color: $color-highlight-2;
   color: white;
+
   p {
     padding-left: 5rem;
     @include breakpoint-max($bp-sm) {
