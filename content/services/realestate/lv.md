@@ -5,6 +5,8 @@ Darījumu likumības pārbaude, dokumentu analīze.
 
 Līgumu analīze un sagatavošana, tajā skaitā:
 
+<br/>
+
 • Pirkuma līgumi;
 
 • Dāvinājuma līgumi;
