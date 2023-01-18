@@ -12,12 +12,12 @@ $bp-sm: 575px;
 }
 
 .container {
-  max-width: calc(960px - 2.4rem);
+  max-width: calc(960px - 4.8rem);
   margin: 0 auto;
-  padding: 0 1.2rem;
+  padding: 0 2.4rem;
 
   @include breakpoint-max($bp-md) {
-    max-width: calc(768px - 2.4rem);
+    max-width: calc(768px - 4.8rem);
   }
 }
 
@@ -226,6 +226,11 @@ $bp-sm: 575px;
     display: grid;
     grid-template-columns: 1fr 1fr;
     gap: 1.2rem;
+
+    @include breakpoint-max($bp-sm) {
+      display: flex;
+      flex-direction: column;
+    }
   }
 }
 
@@ -303,12 +308,22 @@ $bp-sm: 575px;
     grid-template-columns: 1fr 1fr;
     gap: 4.2rem;
 
+    @include breakpoint-max($bp-sm) {
+      display: flex;
+      flex-direction: column;
+      gap: 1.4rem;
+    }
+
     &.one {
       display: flex;
       align-items: center;
       justify-content: center;
       width: 50%;
       margin: 0 auto;
+
+      @include breakpoint-max($bp-sm) {
+        width: 100%;
+      }
     }
 
     div span {
@@ -343,6 +358,11 @@ $bp-sm: 575px;
     display: grid;
     grid-template-columns: 1fr 1fr;
     gap: 3rem;
+    @include breakpoint-max($bp-sm) {
+      display: flex;
+      flex-direction: column;
+      gap: 0;
+    }
   }
 
   &__data {
@@ -366,7 +386,7 @@ $bp-sm: 575px;
   color: white;
 
   p {
-    width: 24ch;
+    max-idth: 24ch;
     font-size: 2.4rem;
     text-align: center;
     margin: 6.4rem auto 2.4rem auto;
@@ -399,12 +419,22 @@ $bp-sm: 575px;
     justify-content: center;
     gap: 1.2rem;
 
+    @include breakpoint-max($bp-sm) {
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+    }
+
     div {
       display: flex;
       flex-direction: column;
       align-items: center;
       justify-content: space-between;
       gap: 1rem;
+
+      @include breakpoint-max($bp-sm) {
+        width: 100%;
+      }
     }
 
     input, textarea {
@@ -412,6 +442,10 @@ $bp-sm: 575px;
       border-radius: .8rem;
       border: none;
       font-family: inherit;
+
+      @include breakpoint-max($bp-sm) {
+        width: calc(80% - 1.6rem);
+      }
     }
   }
 
@@ -422,5 +456,18 @@ $bp-sm: 575px;
     border: none;
     margin: 1.4rem auto 0;
     display: block;
+  }
+}
+
+.copyright {
+  background-color: $color-highlight-2;
+  color: white;
+  p {
+    padding-left: 5rem;
+    @include breakpoint-max($bp-sm) {
+      display: flex;
+      justify-content: center;
+      padding-left: 0;
+    }
   }
 }
