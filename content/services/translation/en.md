@@ -1,4 +1,4 @@
-A Written translations: our translators have extensive experience in a wide range of legal, technical, business, medical, scientific and narrow specialized texts. Terms of the translations depend on the amount of text, its complexity, source/ target languages.
+Written translations: our translators have extensive experience in a wide range of legal, technical, business, medical, scientific and narrow specialized texts. Terms of the translations depend on the amount of text, its complexity, source/ target languages.
 
 In each individual case, we try to respond promptly to customer needs, taking into account the terms and conditions of the translations. 
 
