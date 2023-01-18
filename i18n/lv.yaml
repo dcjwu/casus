@@ -27,7 +27,7 @@
   translation: "Migrācijas tiesības"
 
 - id: price_list
-  translation: "Cenrādis"
+  translation: "Cenas"
 - id: legal_services_p
   translation: Juridiskie pakalpojumi
 - id: subscription_p
@@ -36,7 +36,7 @@
   translation: Dokumentu tulkojimu
 
 - id: contact_us
-  translation: "Sazinities ar mums un mēs obligāti Jums palīdzēsim!"
+  translation: "Sazinieties ar mums un mēs obligāti Jums palīdzēsim!"
 - id: contact_us_email_placeholder
   translation: "E-pasts"
 - id: contact_us_name_placeholder
