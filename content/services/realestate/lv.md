@@ -2,6 +2,7 @@ Konsultācijas par nekustamā īpašuma Iegādi, pārdošanu, dāvināšanu, man
 Darījumu likumības pārbaude, dokumentu analīze.
 
 <br/>
+
 Līgumu analīze un sagatavošana, tajā skaitā:
 
 • Pirkuma līgumi;
@@ -21,5 +22,7 @@ Līgumu analīze un sagatavošana, tajā skaitā:
 • Maiņas līgumi;
 
 • u.c.
+
+<br/>
 
 Palīdzība darījumu noformēšanā pie notāra.
