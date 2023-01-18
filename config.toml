@@ -1,4 +1,4 @@
-baseURL = "https://casus-dcjwu.vercel.app/"
+baseURL = "https://cazus.lv/"
 defaultContentLanguage = "en"
 
 [markup.goldmark.renderer]
@@ -7,15 +7,15 @@ unsafe= true
 [languages]
   [languages.en]
     languageName = "ENG"
-    title = "Casus | EN"
+    title = "CASUS Law Office "
     weight = 1
   [languages.ru]
     languageName = "RUS"
-    title = "Casus | RU"
+    title = "CASUS Юридическое Бюро"
     weight = 2
   [languages.lv]
     languageName = "LV"
-    title = "Casus | LV"
+    title = "CASUS Juridiskais Birojs"
     weight = 3
 
   [[languages.en.menu.main]]

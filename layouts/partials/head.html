@@ -10,6 +10,13 @@
     <link rel="stylesheet" href="{{ $style.Permalink }}">
     {{ $reset := resources.Get "css/reset.scss" | toCSS | minify }}
     <link rel="stylesheet" href="{{ $reset.Permalink }}">
+    <meta content="CASUS Law Office lawyers are more than premium quality professionals in the field, they are confidants, with whom you`ll be pleased with working."
+          name="description"/>
+    <meta content="kucenko.dev | Developer and Mentor" property="og:title"/>
+    <meta content="CASUS Law Office lawyers are more than premium quality professionals in the field, they are confidants, with whom you`ll be pleased with working."
+          property="og:description"/>
+    <meta content="https://cazus.lv/images/logo.png" property="og:image"/>
+    <meta content="https://cazus.lv" property="og:url"/>
     {{ $title := .Site.Title }}
     <title>{{ $title }}</title>
 </head>

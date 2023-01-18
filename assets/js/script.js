@@ -39,10 +39,3 @@ serviceBtn.forEach(item => {
         document.querySelector(`[data-show=${attr}]`).classList.add("active")
     })
 })
-document.querySelector("form").addEventListener("submit", (e) => {
-    e.preventDefault()
-    const data = new FormData(e.target)
-    const email = data.get("email")
-    const name = data.get("name")
-    const message = data.get("message")
-})
