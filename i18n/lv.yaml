@@ -13,7 +13,7 @@
   translation: "Darba tiesības"
 - id: consumer
   translation: "Patērētāju tiesības"
-- id: translation
+- id: criminal
   translation: "Krimināltiesības"
 - id: detective
   translation: "Detektīva pakalpojumi"
@@ -23,7 +23,7 @@
   translation: "Līgumi"
 - id: insolvency
   translation: "Maksātnespēja"
-- id: labour_protection
+- id: migration
   translation: "Migrācijas tiesības"
 
 - id: price_list

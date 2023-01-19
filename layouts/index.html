@@ -34,8 +34,8 @@
                 <p>{{ i18n "consumer" }}</p>
             </div>
             <div data-click="translation" class="services__list-item">
-                <img src="/images/services/translation.png" alt="">
-                <p>{{ i18n "translation" }}</p>
+                <img src="/images/services/criminal.png" alt="">
+                <p>{{ i18n "criminal" }}</p>
             </div>
             <div data-click="detective" class="services__list-item">
                 <img src="/images/services/detective.png" alt="">
@@ -55,7 +55,7 @@
             </div>
             <div data-click="labour_protection" class="services__list-item">
                 <img src="/images/services/labourprotect.png" alt="">
-                <p>{{ i18n "labour_protection" }}</p>
+                <p>{{ i18n "migration" }}</p>
             </div>
         </div>
         <div class="services__data active" data-show="commercial_law">
@@ -129,17 +129,17 @@
             </div>
         </div>
         <div class="services__data" data-show="translation">
-            <h3>{{ i18n "translation" }}</h3>
+            <h3>{{ i18n "criminal" }}</h3>
             <div class="services__text one">
                 <div>
                     {{ if eq .Lang "en" }}
-                    {{ readFile "services/translation/en.md" | markdownify }}
+                    {{ readFile "services/criminal/en.md" | markdownify }}
                     {{ end }}
                     {{ if eq .Lang "lv" }}
-                    {{ readFile "services/translation/lv.md" | markdownify }}
+                    {{ readFile "services/criminal/lv.md" | markdownify }}
                     {{ end }}
                     {{ if eq .Lang "ru" }}
-                    {{ readFile "services/translation/ru.md" | markdownify }}
+                    {{ readFile "services/criminal/ru.md" | markdownify }}
                     {{ end }}
                 </div>
             </div>
@@ -209,28 +209,17 @@
             </div>
         </div>
         <div class="services__data" data-show="labour_protection">
-            <h3>{{ i18n "labour_protection" }}</h3>
-            <div class="services__text">
+            <h3>{{ i18n "migration" }}</h3>
+            <div class="services__text one">
                 <div>
                     {{ if eq .Lang "en" }}
-                    {{ readFile "services/labour_protection/left.en.md" | markdownify }}
+                    {{ readFile "services/migration/en.md" | markdownify }}
                     {{ end }}
                     {{ if eq .Lang "lv" }}
-                    {{ readFile "services/labour_protection/left.lv.md" | markdownify }}
+                    {{ readFile "services/migration/lv.md" | markdownify }}
                     {{ end }}
                     {{ if eq .Lang "ru" }}
-                    {{ readFile "services/labour_protection/left.ru.md" | markdownify }}
-                    {{ end }}
-                </div>
-                <div>
-                    {{ if eq .Lang "en" }}
-                    {{ readFile "services/labour_protection/right.en.md" | markdownify }}
-                    {{ end }}
-                    {{ if eq .Lang "lv" }}
-                    {{ readFile "services/labour_protection/right.lv.md" | markdownify }}
-                    {{ end }}
-                    {{ if eq .Lang "ru" }}
-                    {{ readFile "services/labour_protection/right.ru.md" | markdownify }}
+                    {{ readFile "services/migration/ru.md" | markdownify }}
                     {{ end }}
                 </div>
             </div>

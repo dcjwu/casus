@@ -13,7 +13,7 @@
   translation: "Трудовое право"
 - id: consumer
   translation: "Потреби-тельское право"
-- id: translation
+- id: criminal
   translation: "Уголовное право"
 - id: detective
   translation: "Детективные услуги"
@@ -23,7 +23,7 @@
   translation: "Договоры"
 - id: insolvency
   translation: "Неплатеже-способность"
-- id: labour_protection
+- id: migration
   translation: "Миграционные права"
 
 - id: price_list
