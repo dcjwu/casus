@@ -1,5 +1,7 @@
 The compilation, analysis and amendment of any kind agreements, including:
 
+<br/>
+
 • Sales Agreement,
 
 • Grant Agreement,
@@ -28,4 +30,4 @@ The compilation, analysis and amendment of any kind agreements, including:
 
 • Transportation Agreement,
 
-• Sharing Agreement,
+• Sharing Agreement.
