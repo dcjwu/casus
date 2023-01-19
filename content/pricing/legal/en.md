@@ -18,7 +18,7 @@
 
 <br/>
 
-• Claim application costs <span>from 50€</span>
+• Claim application <span>from 50€</span>
 
 <br/>
 
@@ -26,7 +26,7 @@
 
 <br/>
 
-• Preparation and submission of residence permits, visa documents from <span>from 400€</span>
+• Preparation and submission of residence permits, visa documents <span>from 400€</span>
 
 <br/>
 
@@ -34,4 +34,4 @@
 
 <br/>
 
-• Company liquidation from <span>from 200€</span>
+• Company liquidation <span>from 200€</span>
