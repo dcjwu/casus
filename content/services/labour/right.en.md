@@ -1,5 +1,7 @@
 Help for Employers:
 
+<br/>
+
 • Drafting legal documents (Employment Agreement, Collective Agreement, Agreement of Material Responsibility, Material Transfer Agreement, Amendment Agreement, working regulations, job descriptions, instructions, notices, etc.).
 
 <br/>
