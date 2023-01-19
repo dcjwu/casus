@@ -1,17 +1,37 @@
-• Company registration <span>40€</span>
+• First consultation (up to 1 hour), general inspection of documents, analysis of documents, search for possible solutions <span>50€</span> 
 
-• Foreign company representation, branch registration <span>60€</span>  
+<br/>
 
-• Legal registration of a purchase or sale companies <span>50€</span>  
+• Establishment of merchants <span>40€</span> 
 
-• Amendments to the constituent documents of the company <span>30€</span>  
+<br/>
 
-Analysis of the agreement <span>20€</span>  
+• Registration of representative offices and branches of foreign merchants <span>60€</span> 
 
-• Agreement preparation (Gift Agreement, Services Agreement, Agreement for Inheritance, Lease Agreement) <span>15€</span>  
+<br/>
 
-• Petition to the court <span>50€</span>  
+• Legal preparation of purchase and sale transactions of merchants <span>50€</span>
 
-• Representation of client’s interests (judicial, public institutions) <span>50€</span>
+<br/>
 
-• In labor protection prices depend on the number of employees and the area of activity of a company from <span>80€</span> 
+• Maintenance of changes in the registration documents of merchants, and registration <span>30€</span>
+
+<br/>
+
+• Claim application costs <span>from 50€</span>
+
+<br/>
+
+• Representation of the client's interests (in court, state institutions) <span>50€/h</span>
+
+<br/>
+
+• Preparation and submission of residence permits, visa documents from <span>from 400€</span>
+
+<br/>
+
+• Insolvency <span>300-500€</span> 
+
+<br/>
+
+• Company liquidation from <span>from 200€</span>
