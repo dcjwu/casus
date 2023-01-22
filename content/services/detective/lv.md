@@ -27,7 +27,7 @@
 
 <br/>
 
-• Klienta pavadība valts iestādes (Valsts policija, Valsts ieņēmumu dienestā un citur);
+• Klienta interešu pārstāvniecība valsts iestādēs (Valsts policijā, Valsts ieņēmumu dienestā u.c.);
 
 <br/>
 
@@ -35,4 +35,4 @@
 
 <br/>
 
-• Personu raksturojošo ziņu vākšana pirms darba līguma vai cita civiltiesiskā līguma noslēgšanas un ziņu vākšana par personas maksātspēju.
+• Personu raksturojošo ziņu vākšana pirms darba līguma vai cita civiltiesiska līguma noslēgšanas un ziņu par personas maksātspēju vākšana.
