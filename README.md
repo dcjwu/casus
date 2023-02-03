@@ -1,8 +1,5 @@
-__January 2023.__ First Hugo experience.
+To run development server:
 
 ```bash
 hugo server -D
 ```
-
-
-#### Status — FINISHED.
