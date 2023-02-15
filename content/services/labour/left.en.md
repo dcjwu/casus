@@ -1,8 +1,8 @@
-Help for Employees:
+Providing assistance to Employees:
 
 <br/>
 
-• Consultations on Labour Law and Labour protection issues, labour enforcement issues (Employment Agreement amendment, employer’s notice, employee’s dismissal).
+• Consultations on Labour Law and Labour protection issues, labour enforcement issues (Employment Agreement amendment, dismissal notice,dismissal of an employee).
 
 <br/>
 
@@ -15,3 +15,4 @@ Help for Employees:
 <br/>
 
 • Drawing up a complaint to State Labour Inspectorate.
+
