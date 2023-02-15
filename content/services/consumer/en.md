@@ -2,7 +2,7 @@
 
 <br/>
 
-• The preparation of a claim for a seller or service provider
+• The preparation of a claim for a seller or service provider.
 
 <br/>
 
