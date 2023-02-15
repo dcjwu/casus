@@ -7,7 +7,7 @@
 
 <br/>
 
-• With the permission of the owner, inspection and assessment of publicly necessary places, buildings, equipment and documents.
+•  Inspection and assessment of publicly necessary places, buildings, equipment and documents with the permission of the owner.
 
 <br/>
 
@@ -20,3 +20,4 @@
 <br/>
 
 • Accompanying the client to public authorities (State Police, State Revenue Service and elsewhere).
+
