@@ -1,4 +1,4 @@
-A corporation basic document amendment preparation and registration in Commercial Register:
+Preparation and correction of basic commercial documents and registration them in Commercial Register:
 
 <br/>
 
@@ -12,10 +12,14 @@ A corporation basic document amendment preparation and registration in Commercia
 
 • Share capital increase, reduction, debt capitalization,
 
-• Proctor issue or termination,
+• Filling or withdrawal of cases from the prosecutor's office,
 
 • etc.
 
 <br/>
 
-Preparation and analysis commercial contracts (commercial purchase agreement, commercial commission agreement, forwarding contract, commercial storage contract, leasing, factoring agreement, franchise agreement) and other contract (venture agreement, storage agreement, loan agreement, the cooperation agreement, lease, assignment agreement, pledge agreement, the contract of carriage).
+ Preparation and analysis of commercial contracts (commercial purchase agreement, commercial commission agreement, forwarding contract, commercial storage contract, leasing, factoring agreement, franchise agreement) and other contracts (venture agreement, storage agreement, loan agreement, the cooperation agreement, lease, assignment agreement, pledge agreement, the contract of carriage).
+ 
+<br/> 
+
+ Liquidation of Enterprises.
