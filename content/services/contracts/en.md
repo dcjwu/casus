@@ -1,4 +1,4 @@
-The compilation, analysis and amendment of any kind agreements, including:
+Drafting ,analysis and amendment of any kind agreements, including:
 
 <br/>
 
