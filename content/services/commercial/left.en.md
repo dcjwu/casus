@@ -1,4 +1,4 @@
-All required documents preparation and submission to Commercial Register of different business forms registration:
+Preparation of necessary documents and their submission to Commercial Register for registration of enterprises with various forms of business:
 
 <br/>
 
