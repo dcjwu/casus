@@ -1,16 +1,16 @@
-Help for Employers:
+Providing assistance to Employers:
 
 <br/>
 
-• Drafting legal documents (Employment Agreement, Collective Agreement, Agreement of Material Responsibility, Material Transfer Agreement, Amendment Agreement, working regulations, job descriptions, instructions, notices, etc.).
+• Drafting legal documents (Employment Agreement, Collective Agreement, Agreement of Material Responsibility, Material Transfer Agreement, Amendment Agreement, working regulations, job descriptions, dismissal instructions and  notices, etc.).
 
 <br/>
 
-• Consultations on issues regarding employment agreement conclusion, its performance, amendment, termination and other Labour Law enforcement issues.
+• Consultations on issues regarding a conclusion of an employment contract, its performance,  amendment and  termination and other Labour Law enforcement issues.
 
 <br/>
 
-• The preparation of documents related to the violation of working regulations and Employment Agreement.
+• The preparation of documents related to the violation of the eployment contract and Employment Agreement.
 
 <br/>
 
@@ -18,8 +18,10 @@ Help for Employers:
 
 <br/>
 
-• The preparation of claims and other legal documents for an employer regarding the recovery of damages, the assistance in determining the amount of damages, the submission of the documents to the court.
+• The preparation of claims and other legal documents regarding the recovery of damages for an employer ,the assistance in determining the amount of damages, the submission of the documents to the Court.
 
 <br/>
 
 • Protest a decision against Labour Inspectorate to the Administrative Court.
+ 
+
