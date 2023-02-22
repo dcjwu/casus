@@ -2,7 +2,7 @@ Sniedzam konsultācijas patērētāju tiesību jautājumos.
 
 <br/>
 
-• Pretenzijas sastādīšana pārdevējam vai pakalpojumu sniedzējam.
+• Pretenzijas sagatavošana pārdevējam vai pakalpojumu sniedzējam.
 
 <br/>
 
