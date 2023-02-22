@@ -10,7 +10,7 @@
 
 <br/>
 
-• Legal preparation of purchase and sale transactions of merchants <span>50€</span>
+• Legal preparation of purchase and sale transactions of merchants <span>from 50€</span>
 
 <br/>
 
