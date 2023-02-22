@@ -1,1 +1,1 @@
-Uzturēšanās atļaujas, vīzas dokumentu sagatavošana, iesniegšna Pilsonības un migrācijas lietu pārvaldē.
+Uzturēšanās atļaujas, vīzas dokumentu sagatavošana un iesniegšna Pilsonības un migrācijas lietu pārvaldē.
