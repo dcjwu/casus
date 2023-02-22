@@ -30,7 +30,7 @@
 
 <br/>
 
-• Maksātnespējas process <span>300-500€</span>
+• Maksātnespējas process <span>no 300€</span>
 
 <br/>
 
