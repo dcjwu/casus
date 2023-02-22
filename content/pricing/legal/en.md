@@ -34,4 +34,4 @@
 
 <br/>
 
-• Company liquidation <span>from 200€</span>
+• Company liquidation <span>from 50€</span>
