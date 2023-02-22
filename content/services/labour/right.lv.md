@@ -1,17 +1,17 @@
-Palīdzība darbiniekiem:
+Sniedzam palīdzību darbiniekiem:
 
 <br/>
 
-• Konsultācijas darba tiesību un darba aizsardzības jautājumos, Darba likuma normu piemērošana jautājumos (darba līguma grozījumi, uzteikums, darbinieka atlaišana no darba).
+• Konsultācijas darba tiesību un darba aizsardzības jautājumos, Darba likuma normu piemērošanas jautājumos (darba līguma grozījumi, uzteikums, darbinieka atlaišana no darba).
 
 <br/>
 
-• Prasību sastādīšana pret darba devēju par darba devēja uzteikuma atzīšanu par spēkā neesošu, par darbinieka atjaunošanu darbā, par darba samaksas piedziņu.
+• Prasības pret darba devēju par darba devēja uzteikuma atzīšanu par spēkā neesošu, par darbinieka atjaunošanu darbā, par darba samaksas piedziņu sagatavošana.
 
 <br/>
 
-• Tiesas nolēmumu pārsūdzēšana.
+• Tiesas nolēmuma pārsūdzēšana.
 
 <br/>
 
-• Iesniegumu sastādīšana Valsts darba inspekcijā.
+• Iesnieguma sagatavošana iesniegšanai Valsts darba inspekcijā.
