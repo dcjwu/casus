@@ -2,12 +2,12 @@ Mūsu mērķis ir palīdzet gan juridiskām, gan fiziskām personas, kas nonāku
 
 <br/>
 
-• Sniedzam konsultācijas maksātnespējas jautājumos.
+• Konsultējam par maksātnespējas jautājumiem.
 
 <br/>
 
-• Maksātnespējas pieteikuma sastādīšana.
+• Maksātnespējas pieteikuma sagatavošana.
 
 <br/>
 
-• Sūdzības par administratora rīcību,sūdzības par kreditoru sapulces lēmumiem.
+• Sūdzību par administratora rīcību, par kreditoru sapulces lēmumiem sagatavošana.
