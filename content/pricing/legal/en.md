@@ -30,7 +30,7 @@
 
 <br/>
 
-• Insolvency <span>300-500€</span> 
+• Insolvency <span>from 300€</span> 
 
 <br/>
 
