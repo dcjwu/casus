@@ -1,4 +1,4 @@
-Palīdzība darba devējiem:
+Sniedzam palīdzību darba devējiem:
 
 <br/>
 
