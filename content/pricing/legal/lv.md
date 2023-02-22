@@ -10,7 +10,7 @@
 
 <br/>
 
-• Komersantu pirkšanas un pārdošanas darījumu juridiskā noformēšana <span>50€</span>
+• Komersantu pirkšanas un pārdošanas darījumu juridiskā noformēšana <span>no 50€</span>
 
 <br/>
 
