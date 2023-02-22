@@ -1,4 +1,4 @@
-Mūsu mērķis ir palīdzet gan juridiskām, gan fiziskām personas, kas nonākušas finansiālās grūtībās,  piemērojot likumā noteiktos principus un tiesiskos risinājumus.  
+Palīdzēsim juridiskām un fiziskām personām, kas nonākušas finansiālās grūtībās.  
 
 <br/>
 
