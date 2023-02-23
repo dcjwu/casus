@@ -1,14 +1,15 @@
 <div class="footer" id="contact">
-    <p>{{ i18n "contact_us" }}</p>
+    <p class="footer__header">{{ i18n "contact_us" }}</p>
     <div class="contacts">
         <ul>
+            <li>CASUS SIA, Reg. Nr. 40203458906</li>
+            <li>Luminor Bank AS, LV63RIKO0002930355100</li>
             <li>
                 <img src="/images/address.png" alt="Address">
                 <a target="_blank"
                    href="https://www.google.lv/maps/place/Pulkve%C5%BEa+Brie%C5%BEa+iela+4,+Centra+rajons,+R%C4%ABga,+LV-1010/@56.9591526,24.1036728,17z/data=!3m1!4b1!4m5!3m4!1s0x46eecfc45a1dd995:0xa79987a9e8809af3!8m2!3d56.9591497!4d24.1058615">
-                           CASUS SIA, Reg.Nr.40203458906 
-                                      </a>
-                         Pulkveža Brieža 4, Rīga, Latvija</a>
+                    Pulkveža Brieža 4, Rīga, Latvija
+                </a>
             </li>
             <li>
                 <img src="/images/email.png" alt="Address">
@@ -23,10 +24,11 @@
     <form class="form" method="POST" action="https://formspree.io/f/xqkoalgb">
         <div class="wrapper">
             <div>
-                <input type="email" required name="email" placeholder="{{ i18n "contact_us_email_placeholder" }}">
-                <input type="text" required name="name" placeholder="{{ i18n "contact_us_name_placeholder" }}">
+                <input type="email" required name="email" placeholder="{{ i18n " contact_us_email_placeholder" }}">
+                <input type="text" required name="name" placeholder="{{ i18n " contact_us_name_placeholder" }}">
             </div>
-            <textarea cols="30" rows="4" name="message" required placeholder="{{ i18n "contact_us_message_placeholder" }}"></textarea>
+            <textarea cols="30" rows="4" name="message" required placeholder="{{ i18n " contact_us_message_placeholder"
+            }}"></textarea>
         </div>
         <button type="submit">{{ i18n "contact_us_button" }}</button>
     </form>
@@ -35,11 +37,15 @@
 <script async src="https://www.googletagmanager.com/gtag/js?id=G-GWJW0F8YW1">
 </script>
 <script>
-  window.dataLayer = window.dataLayer || [];
-  function gtag(){dataLayer.push(arguments);}
-  gtag('js', new Date());
+    window.dataLayer = window.dataLayer || [];
 
-  gtag('config', 'G-GWJW0F8YW1');
+    function gtag() {
+        dataLayer.push(arguments);
+    }
+
+    gtag('js', new Date());
+
+    gtag('config', 'G-GWJW0F8YW1');
 </script>
 <div class="copyright">
     <p>&copy; CASUS Juridiskais Birojs</p>
