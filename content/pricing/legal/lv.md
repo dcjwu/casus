@@ -2,11 +2,11 @@
 
 <br/>
 
-• Komersantu dibināšana <span>40€</span>
+• Komersantu dibināšana <span>no 50€</span>
 
 <br/>
 
-• Ārvalsts komersantu pārstāvniecību, filiāļu reģistrēšana <span>60€</span>
+• Ārvalsts komersantu pārstāvniecību, filiāļu reģistrēšana <span>no 60€</span>
 
 <br/>
 
@@ -14,7 +14,7 @@
 
 <br/>
 
-• Izmaiņu komersantu reģistrācijas dokumentos sag., un reģistrācija <span>30€</span>
+• Izmaiņu komersantu reģistrācijas dokumentos sag., un reģistrācija <span>no 50€</span>
 
 <br/>
 
