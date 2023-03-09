@@ -26,7 +26,7 @@
 
 <br/>
 
-• Uzturēšanās atļaujas, vīzas dokumentu sagatavošana un iesniegšana <span>no 100€</span>
+• Uzturēšanās atļaujas, vīzas dokumentu sagatavošana un iesniegšana <span>no 150€</span>
 
 <br/>
 
