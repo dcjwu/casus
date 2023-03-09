@@ -2,11 +2,11 @@
 
 <br/>
 
-• Establishment of merchants <span>40€</span> 
+• Establishment of merchants <span>from 50€</span> 
 
 <br/>
 
-• Registration of representative offices and branches of foreign merchants <span>60€</span> 
+• Registration of representative offices and branches of foreign merchants <span>from 60€</span> 
 
 <br/>
 
@@ -14,7 +14,7 @@
 
 <br/>
 
-• Maintenance of changes in the registration documents of merchants, and registration <span>30€</span>
+• Maintenance of changes in the registration documents of merchants, and registration <span>from 50€</span>
 
 <br/>
 
