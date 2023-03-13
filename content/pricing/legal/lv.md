@@ -34,4 +34,4 @@
 
 <br/>
 
-• Uzņēmuma likvidācija <span>no 50€</span>
+• Uzņēmuma likvidācija <span>no 100€</span>
