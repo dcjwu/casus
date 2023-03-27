@@ -2,11 +2,11 @@
 
 <br/>
 
-• Komersantu dibināšana <span>no 50€</span>
+• Pirmā konsultācija krimināllietā <span> 100€</span>
 
 <br/>
 
-• Ārvalsts komersantu pārstāvniecību, filiāļu reģistrēšana <span>no 60€</span>
+• Komersantu dibināšana <span> no 50€</span>
 
 <br/>
 
