@@ -2,11 +2,11 @@
 
 <br/>
 
-• Establishment of merchants <span>from 50€</span> 
+• First consultation in a criminal case <span>100€</span> 
 
 <br/>
 
-• Registration of representative offices and branches of foreign merchants <span>from 60€</span> 
+• Establishment of merchants <span>from 50€</span> 
 
 <br/>
 
