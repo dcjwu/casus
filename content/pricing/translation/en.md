@@ -1,10 +1,9 @@
-Pirmā konsultācija - atkarībā no jautājuma sarežģītības un specifikas <span>50-100€</span>
+First consultation - depending on the complexity and specifics of the issue <span>50-100€</span> 
 
 <br/>
 
-Standarta pakalpojumi <span>50€/h</span>
+Standard services <span>50€/h</span>
 
 <br/>
 
-Paaugstinātas maksas pakalpojumi <span>no 300€</span>
-
+Increased fee services <span>from 300€</span>
