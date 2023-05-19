@@ -2,7 +2,7 @@ The legal office  lawyers provide high-class legal assistance to detainees, susp
 
 <br/>
 
-Clients of the office are provided with consultations and, if necessary, a lawyer is provided.
+Clients of the office are provided with consultations and a lawyer is provided.
 
 <br/>
 
