@@ -2,7 +2,7 @@ Biroja juristi nodrošina augstas klases juridiskās palīdzības sniegšanu aiz
 
 <br/>
 
-Biroja klientiem tiek nodrošinātas konsultācijas un nepieciešamības gadījumā advokāts. 
+Biroja klientiem tiek nodrošinātas konsultācijas un advokāts. 
 
 <br/>
 
