@@ -22,7 +22,7 @@
 
 <br/>
 
-• Representation of the client's interests (in court, state institutions) <span>50€/h</span>
+• Representation of the client's interests (in court, state institutions) <span>70€/h</span>
 
 <br/>
 
