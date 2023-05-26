@@ -22,7 +22,7 @@
 
 <br/>
 
-• Klienta interešu pārstāvniecība (tiesā, valsts iestādēs) <span>50€/h</span>
+• Klienta interešu pārstāvniecība (tiesā, valsts iestādēs) <span>70€/h</span>
 
 <br/>
 
