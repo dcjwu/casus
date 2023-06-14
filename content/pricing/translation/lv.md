@@ -2,7 +2,7 @@ Pirmā konsultācija - atkarībā no jautājuma sarežģītības un specifikas <
 
 <br/>
 
-Standarta pakalpojumi <span>50€/h</span>
+Standarta pakalpojumi <span>no 50€/h</span>
 
 <br/>
 
