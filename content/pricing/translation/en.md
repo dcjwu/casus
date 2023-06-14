@@ -2,7 +2,7 @@ First consultation - depending on the complexity and specifics of the issue <spa
 
 <br/>
 
-Standard services <span>50€/h</span>
+Standard services <span>from 50€/h</span>
 
 <br/>
 
