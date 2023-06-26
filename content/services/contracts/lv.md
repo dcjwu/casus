@@ -22,5 +22,5 @@ Personu savstarpējās mantiskās un nemantiskās attiecības regulē civillikum
 
 <br/>
 
-• pirkuma līgumu, dāvinājuma līgumu, īres / nomas līgumu, aizdevuma līgumu, maiņas līgumu, un dažādu citu līgumu sagatavošana.
+• pirkuma līgumu, īres līgumu, aizdevuma līgumu, dāvinājuma līgumu, un citu līgumu sagatavošana.
 
