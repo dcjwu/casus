@@ -20,7 +20,7 @@
 - id: realestate
   translation: "Сделки с недвижимостью"
 - id: contracts
-  translation: "Договоры"
+  translation: "Гражданские права"
 - id: insolvency
   translation: "Неплатеже-способность"
 - id: migration
