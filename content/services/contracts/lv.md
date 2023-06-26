@@ -3,14 +3,24 @@ Personu savstarpējās mantiskās un nemantiskās attiecības regulē civillikum
 <br/>
 
 • pretenziju, izlīgumu sagatavošana;
+
 <br/>
+
 • laulības šķiršana pie notāra vai tiesā; 
+
 <br/>
+
 • paskaidrojumu, pretprasības sagatavošana; 
+
 <br/>
-• parāda piedziņa, zaudējumu atlīdzības piedziņa;  
+
+• parāda piedziņa, zaudējumu atlīdzības piedziņa; 
+
 <br/>
+
 • mediācija;
+
 <br/>
+
 • pirkuma līgumu, dāvinājuma līgumu, īres / nomas līgumu, aizdevuma līgumu, maiņas līgumu, un dažādu citu līgumu sagatavošana.
 
