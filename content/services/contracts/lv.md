@@ -1,4 +1,4 @@
-Personu savstarpējās mantiskās un nemantiskās attiecības regulē civillikums. Mantiskās un nemantiskās attiecības var izpausties darījumos, īpašuma tiesību īstenošanā, ģimenes attiecībās un mantojuma jautājumos. Palīdzēsim jautājumos, kas saistīti ar parādu vai zaudējumu atlīdzības piedziņu, laulības šķiršanu un dažādu veidu līgumu sagatavošanu: 
+Personu savstarpējās mantiskās un nemantiskās attiecības regulē Civillikums. Mantiskās un nemantiskās attiecības var izpausties darījumos, īpašuma tiesību īstenošanā, ģimenes attiecībās un mantojuma jautājumos. Palīdzēsim jautājumos, kas saistīti ar parādu vai zaudējumu atlīdzības piedziņu, laulības šķiršanu un dažādu veidu līgumu sagatavošanu: 
 
 <br/>
 
