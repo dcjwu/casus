@@ -28,6 +28,4 @@ Palīdzēsim:
 
 Noteiksim un īstenosim optimālāko legalizācijas veidu atbilstoši likumam.
 
-<br/>
 
-•
