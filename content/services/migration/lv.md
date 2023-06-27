@@ -14,7 +14,7 @@ Palīdzēsim:
 
 <br/>
 
-• savākt nepieciešamos dokumentus, rakstīt iesniegumus zvana vai ielūguma saņemšanai;
+• savākt nepieciešamos dokumentus, sagatavot iesniegumus izsaukuma vai ielūguma saņemšanai;
 
 <br/>
 
