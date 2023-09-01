@@ -1,4 +1,4 @@
-• First consultation, general inspection of documents, analysis of documents, search for possible solutions <span>50€</span> 
+• First consultation (up to 1h), general inspection of documents, analysis of documents, search for possible solutions <span>50€</span> 
 
 <br/>
 
