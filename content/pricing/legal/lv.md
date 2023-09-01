@@ -1,4 +1,4 @@
-• Pirmā konsultācija, dokumentu vispārīga apskate, dokumentu analīze, iespējamo risinājumu meklēšana <span>50€</span>
+• Pirmā konsultācija (līdz 1 stundai), dokumentu vispārīga apskate, dokumentu analīze, iespējamo risinājumu meklēšana <span>50€</span>
 
 <br/>
 
