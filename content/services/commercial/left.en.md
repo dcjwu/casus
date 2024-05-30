@@ -31,3 +31,13 @@ Preparation of necessary documents and their submission to Commercial Register f
 • Foreign merchants and their representations,
 
 • Religious organizations.
+
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=AW-11072310083"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'AW-11072310083');
+</script>
