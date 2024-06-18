@@ -8,12 +8,3 @@ We are the right solution for you and your business! CASUS Law Office offers a s
 <br/>
 
 Let our professional team take care of you and save you time and money! Please contact us to get all of your questions answered immediately.
-<!-- Google tag (gtag.js) -->
-<script async src="https://www.googletagmanager.com/gtag/js?id=AW-11072310083"></script>
-<script>
-  window.dataLayer = window.dataLayer || [];
-  function gtag(){dataLayer.push(arguments);}
-  gtag('js', new Date());
-
-  gtag('config', 'AW-11072310083');
-</script>
