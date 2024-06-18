@@ -5,3 +5,13 @@ Mūsu panākumu pamats ir mūsu klientu uzticība, kuru mēs attaisnojam ikdien�
 Mēs esam īstais risinājums Jums! Jebkura lieta ir risināma! Piedāvājam arī juridisko pakalpojumu abonementus, kas ļaus Jums ietaupīt gan budžetu, gan Jūsu laiku. Mēs noformēsim dokumentus Jūsu vietā, pārstavēsim Jūs vai Jūsu uzņemumu valsts iestādēs, tiesā, lai Jūs varētu justies droši.<br/>
 
 Ļaujiet par Jums parūpēties CASUS biroja profesionālajam kolektīvam un ietaupiet Jūsu laiku un naudu! Sazinieties ar mums, atbildēsim uz visiem jautājumiem. 
+
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=AW-11072310083"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'AW-11072310083');
+</script>
