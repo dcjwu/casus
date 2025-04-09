@@ -26,7 +26,7 @@
 
 <br/>
 
-• Preparation and submission of residence permits, visa documents <span>from 400€</span>
+• Preparation and submission of residence permits, visa documents <span> 400€</span>
 
 <br/>
 
