@@ -1,4 +1,4 @@
-First consultation - depending on the complexity and specifics of the issue <span>50-100€</span> 
+First consultation - depending on the complexity and specifics of the issue <span> 100€</span> 
 
 <br/>
 
