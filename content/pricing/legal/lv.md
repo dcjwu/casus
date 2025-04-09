@@ -6,11 +6,11 @@
 
 <br/>
 
-• Komersantu dibināšana <span> no 50€</span>
+• Komersantu dibināšana <span> no 100€</span>
 
 <br/>
 
-• Komersantu pirkšanas un pārdošanas darījumu juridiskā noformēšana <span>no 50€</span>
+• Komersantu pirkšanas un pārdošanas darījumu juridiskā noformēšana <span>no 100€</span>
 
 <br/>
 
@@ -18,7 +18,7 @@
 
 <br/>
 
-• Prasības pieteikums tiesā <span>no 50€</span>
+• Prasības pieteikums tiesā <span>no 300€</span>
 
 <br/>
 
@@ -26,13 +26,13 @@
 
 <br/>
 
-• Uzturēšanās atļaujas, vīzas dokumentu sagatavošana un iesniegšana <span>no 150€</span>
+• Uzturēšanās atļaujas, vīzas dokumentu sagatavošana un iesniegšana <span>no 400€</span>
 
 <br/>
 
-• Maksātnespējas process <span>no 300€</span>
+• Maksātnespējas process <span>no 400€</span>
 
 <br/>
 
-• Uzņēmuma likvidācija <span>no 100€</span>
+• Uzņēmuma likvidācija <span>no 200€</span>
 
