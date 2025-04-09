@@ -1,4 +1,4 @@
-Pirmā konsultācija - atkarībā no jautājuma sarežģītības un specifikas <span>50-100€</span>
+Pirmā konsultācija - atkarībā no jautājuma sarežģītības un specifikas <span> 100€</span>
 
 <br/>
 
