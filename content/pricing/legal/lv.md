@@ -1,4 +1,4 @@
-• Pirmā konsultācija (līdz 1 stundai), dokumentu vispārīga apskate, dokumentu analīze, iespējamo risinājumu meklēšana <span>50€</span>
+• Pirmā konsultācija (līdz 1 stundai), dokumentu vispārīga apskate, dokumentu analīze, iespējamo risinājumu meklēšana <span>70€</span>
 
 <br/>
 
@@ -26,7 +26,7 @@
 
 <br/>
 
-• Uzturēšanās atļaujas, vīzas dokumentu sagatavošana un iesniegšana <span> 400€</span>
+• Uzturēšanās atļaujas, vīzas dokumentu sagatavošana un iesniegšana <span> 500€</span>
 
 <br/>
 
