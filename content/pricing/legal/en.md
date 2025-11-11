@@ -1,4 +1,4 @@
-• First consultation (up to 1h), general inspection of documents, analysis of documents, search for possible solutions <span>50€</span> 
+• First consultation (up to 1h), general inspection of documents, analysis of documents, search for possible solutions <span>70€</span> 
 
 <br/>
 
@@ -26,7 +26,7 @@
 
 <br/>
 
-• Preparation and submission of residence permits, visa documents <span> 400€</span>
+• Preparation and submission of residence permits, visa documents <span> 500€</span>
 
 <br/>
 
